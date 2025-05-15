@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-cambion
+  x-cortex-tag: monster-cambion
+  x-cortex-custom-metadata:
+    alignment: chaotic-neutral
+    type: construct
+    challenge_rating: 24
+    legendary: true
+    armor_class: 15
+    hit_points: 156
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-cambion
+      alias: github-token-test
